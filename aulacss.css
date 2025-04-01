@@ -1,0 +1,10 @@
+body {
+    background-image: url('image/fundo.jpg')
+}
+h1 {
+    font-family: Helvetica;
+    font-weight: bold;
+}
+p {
+    font-size:larger;
+}
